@@ -1,0 +1,1 @@
+SELECT title FROM mystudy_wb1.book where genre in('•¶Šw','ŽÐ‰ï');
