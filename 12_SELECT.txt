@@ -1,0 +1,1 @@
+SELECT count(*) FROM mystudy_wb1.book where publisher = 'ÉAÉCÉA';
