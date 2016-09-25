@@ -1,0 +1,1 @@
+SELECT title FROM mystudy_wb1.book where author = 'Ÿìr—Y';
