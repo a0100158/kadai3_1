@@ -1,0 +1,1 @@
+SELECT title,price FROM mystudy_wb1.book where publisher = 'ƒAƒCƒA' and author = 'Ÿìr—Y';
