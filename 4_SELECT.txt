@@ -1,0 +1,1 @@
+SELECT title,author,price FROM mystudy_wb1.book where id = 1;
