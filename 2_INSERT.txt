@@ -1,0 +1,4 @@
+INSERT INTO `mystudy_wb1`.`book` (`id`, `genre`, `title`, `price`, `author`, `publisher`, `entry_date`, `update_date`) VALUES ('1', '文学', '大沼ワルツ ', '1000', '勝川俊雄', 'アイア', '20100101', '20100102');
+INSERT INTO `mystudy_wb1`.`book` (`id`, `genre`, `title`, `price`, `author`, `publisher`, `entry_date`, `update_date`) VALUES ('2', '社会', '２１世紀の地政学アトラス ', '2000', '小野二郎', '愛育社', '20110202', '20110203');
+INSERT INTO `mystudy_wb1`.`book` (`id`, `genre`, `title`, `price`, `author`, `publisher`, `entry_date`, `update_date`) VALUES ('3', '趣味', '私はなぜ８０歳でエベレストを目指すのか ', '3000', '藤田優', 'アイオーエム', '20120303', '20120304');
+INSERT INTO `mystudy_wb1`.`book` (`id`, `genre`, `title`, `price`, `author`, `publisher`, `entry_date`, `update_date`) VALUES ('4', '実用', '復興ごはん', '4000', '山脇りこ', 'アイカム', '20140404', '20140405');
