@@ -1,0 +1,1 @@
+delete from mystudy_wb1.book where author = '藤田優' and publisher = 'アイオーエム';
