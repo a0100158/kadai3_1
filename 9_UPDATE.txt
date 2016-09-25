@@ -1,0 +1,3 @@
+SET SQL_SAFE_UPDATES = 0;
+
+update mystudy_wb1.book set price = 10000, update_date = '2015-11-11 00:00:00' where title IN('大沼ワルツ ','２１世紀の地政学アトラス');
