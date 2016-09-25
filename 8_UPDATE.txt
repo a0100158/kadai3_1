@@ -1,0 +1,1 @@
+update mystudy_wb1.book set genre = '•¶Šw2', update_date = '2010-02-28 00:00:00' where id = 1;
